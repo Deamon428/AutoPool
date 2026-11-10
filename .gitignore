@@ -1,0 +1,12 @@
+
+rides.db*
+venv/
+.venv/
+__pycache__/
+.DS_Store
+
+rides.db*
+venv/
+.venv/
+__pycache__/
+.DS_Store
