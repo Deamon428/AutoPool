@@ -4,7 +4,7 @@ Campus ride-pooling web application built with **FastAPI**, **SQLite**, and a **
 
 Split autos to the railway station and bus stand without spamming WhatsApp groups!
 
-🔗 **Live App:** https://doubt-hub-duhe.onrender.com/
+🔗 **Live App:** [(https://autopool.onrender.com)]
 ---
 
 ## 🚀 Features
