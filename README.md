@@ -4,6 +4,7 @@ Campus ride-pooling web application built with **FastAPI**, **SQLite**, and a **
 
 Split autos to the railway station and bus stand without spamming WhatsApp groups!
 
+🔗 **Live App:** https://doubt-hub-duhe.onrender.com/
 ---
 
 ## 🚀 Features
@@ -36,9 +37,9 @@ Split autos to the railway station and bus stand without spamming WhatsApp group
 
 ---
 
-## 🛠️ Quickstart
+## 🛠️ Quickstart (Local Development)
 
-### 1. Install dependencies
+### 1. Set up virtual environment & dependencies
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
